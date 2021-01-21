@@ -6,4 +6,5 @@ example_cmake2/ 存放了摄像头采集图片并进行颜色识别的应用程�
 
 itop_key_demo/  存放通过按键调整rgb阈值的驱动代码 
 
-![show](./doc/pic/show.gif)
+<img src="./doc/pic/show.gif" />
+
